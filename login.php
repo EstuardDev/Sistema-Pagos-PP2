@@ -58,7 +58,7 @@ ob_end_flush();
 			<div id="login-center" align="center">
 				<div class="card col-md-3 ">
 					<div class="card-body">
-						<h1 class="text-center mb-5"><img src="assets/uploads/logo.jpg" width="249px"></h1>
+						<h1 class="text-center mb-5"><img src="assets/uploads/logo.png" width="249px"></h1>
 
 						<form id="login-form">
 							<div class="form-group">

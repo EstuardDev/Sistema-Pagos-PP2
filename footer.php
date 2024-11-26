@@ -41,8 +41,7 @@
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-    Para más desarrollos accede a
-    <a class="text-white" href="https://www.configuroweb.com/">ConfiguroWeb</a>
+    © Copyright - SEPAE por Desarrolladeres de SEPAE
   </div>
   <!-- Copyright -->
 </footer>
